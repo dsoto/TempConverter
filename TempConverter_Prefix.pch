@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TempConverter' target in the 'TempConverter' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
